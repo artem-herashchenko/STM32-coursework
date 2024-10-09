@@ -1,0 +1,1 @@
+This repository contains coursework in the discipline Microprocessor technologies and components of radio electronic equipment
